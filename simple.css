@@ -17,8 +17,8 @@ ul {
 ul li {
   list-style-type: none;
   display: inline;
-  margin-right: 0.5em;
-  margin-left: 0.5em;
+  margin-right: 10.5em;
+  margin-left: 10.5em;
 }
 ul li a {
   color: white;
